@@ -1,0 +1,21 @@
+.btn-voltar {
+    color: rgb(148, 148, 143);
+    position: relative;
+}
+
+.btn-voltar:visited{
+    text-decoration: none;
+}
+
+.btn-voltar:hover{
+    text-decoration: none;
+    color: rgb(73, 75, 75);
+}
+
+.form{
+    width: 600px;
+}
+
+.form-group{
+    margin: 20px 0;
+}
